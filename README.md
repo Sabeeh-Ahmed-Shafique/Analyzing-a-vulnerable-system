@@ -7,9 +7,9 @@ I included the following in my report:
 - __Scope of the Assessment__ in which I specified the focus and boundaries of the assessment.
 - __Purpose of the Assessment__  in which I explained the stakeholders underlying objective and intended outcome of the analysis.
 - __Risk Assessment__ :
-                         - I Choose the threats based on the information gathered from the system description, scope, purpose, and NIST SP 800-30 Rev. 1 resource.
-                         - Using the Threat events section in the NIST SP 800-30 Rev. 1 resource. I identified threat events that could be initiated based on the threats identified.
-                         - I referred to the likelihood and severity sections of the NIST SP 800-30 Rev. 1 resource, I estimated a Likelihood score (1-3) and Severity score (1-3) for each threat
+                           I Choose the threats based on the information gathered from the system description, scope, purpose, and NIST SP 800-30 Rev. 1 resource.
+                           Using the Threat events section in the NIST SP 800-30 Rev. 1 resource. I identified threat events that could be initiated based on the threats identified.
+                           I referred to the likelihood and severity sections of the NIST SP 800-30 Rev. 1 resource, I estimated a Likelihood score (1-3) and Severity score (1-3) for each threat
                            and then calculated an overall Risk score (1-9) for each threat using the formula (likelihood x severity = risk). 
 
 - __Approach__ in which I tried to explain to the stakeholders understand my thought process of evaluating the risks I identified — adding valuable context for stakeholders.
@@ -21,17 +21,9 @@ The server runs on the latest version of Linux operating system and hosts a MySQ
 
 ---
 
+[Vulnerability Assessment Report.DOCX](https://raw.githubusercontent.com/Sabeeh-Ahmed-Shafique/Analyzing-a-vulnerable-system/3b0bc81f5e217adb499002045957d3a8134e767e/Vulnerability%20assessment%20report.docx)
+ 
+### To access the complete report, please consider the above link.
+
 
  
-
-
-
-
-
-
-
-
-
-
-# Analyzing-a-vulnerable-system
-I conducted a vulnerability assessment for a small e-commerce company. 
